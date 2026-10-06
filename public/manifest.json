@@ -1,0 +1,17 @@
+{
+  "short_name": "TalkSphere",
+  "name": "TalkSphere - Practice Languages",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Practice languages with real people using temporary real-time WebRTC audio."
+}
